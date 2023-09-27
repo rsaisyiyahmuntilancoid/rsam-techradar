@@ -1,0 +1,86 @@
+[
+ {
+   "name": "JDK 12",
+   "ring": "Adopt",
+   "quadrant": "tools",
+   "isNew": false,
+   "description": "<p>JDK 12 LIVE</p>"
+ },
+ {
+   "name": "JDK 14",
+   "ring": "Adopt",
+   "quadrant": "tools",
+   "isNew": true,
+   "description": "<p>JDK 14 FARMASI LABEL</p>"
+ },
+ {
+   "name": "JDK 15",
+   "ring": "Adopt",
+   "quadrant": "tools",
+   "isNew": true,
+   "description": "<p>JDK 15 PENDAFTARAN RAWAT JALAN</p>"
+ },
+ {
+   "name": "MySQL",
+   "ring": "Adopt",
+   "quadrant": "platforms",
+   "isNew": false,
+   "description": "<p>DB Production</p>"
+ },
+ {
+   "name": "Java 12",
+   "ring": "Adopt",
+   "quadrant": "languages-and-frameworks",
+   "isNew": false,
+   "description": "<p>Main language</p>"
+ },
+ {
+   "name": "PHP 7.2",
+   "ring": "Adopt",
+   "quadrant": "languages-and-frameworks",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "PHP 7.4",
+   "ring": "Adopt",
+   "quadrant": "languages-and-frameworks",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "PHP 8.0",
+   "ring": "Assess",
+   "quadrant": "languages-and-frameworks",
+   "isNew": true,
+   "description": ""
+ },
+ {
+   "name": "Code Igniter 4",
+   "ring": "Assess",
+   "quadrant": "languages-and-frameworks",
+   "isNew": true,
+   "description": ""
+ },
+ {
+   "name": "aaPanel",
+   "ring": "Assess",
+   "quadrant": "tools",
+   "isNew": true,
+   "description": ""
+ },
+ {
+   "name": "Monolitik",
+   "ring": "Adopt",
+   "quadrant": "techniques",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Plugin Arsitektur",
+   "ring": "Adopt",
+   "quadrant": "Techniques",
+   "isNew": false,
+   "description": ""
+ }
+]
